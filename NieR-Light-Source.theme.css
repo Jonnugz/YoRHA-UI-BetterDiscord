@@ -36,3 +36,6 @@
 	--color-alert-trans: rgba(205, 102, 77, 0.7);
 	--nier-font: sce-ps3_rodin_latinregular;
 }
+.wrapper-2PSQCG > svg > mask {
+  display: initial;
+}
